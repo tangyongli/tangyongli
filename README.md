@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 l'm currently learning remote sensing, deep learning ,data science,programming; 
+😄 l'm currently learning remote sensing, deep learning ,data science,programming; <br>
 😄 l'm not well organised,l am tring to use new tool, like obsidian to manage my note;
 
 
